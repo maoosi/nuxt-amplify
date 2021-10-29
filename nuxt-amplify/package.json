@@ -1,0 +1,8 @@
+{
+    "name": "nuxt-amplify",
+    "version": "0.0.1",
+    "description": "Nuxt + AWS Amplify = ♡",
+    "private": true,
+    "main": "module.js",
+    "license": "MIT"
+}
